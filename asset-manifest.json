@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mr-Saini-Abhishek/Expense-Tracker-Frontend/static/css/main.3131c544.css",
+    "main.js": "/Mr-Saini-Abhishek/Expense-Tracker-Frontend/static/js/main.11fb7be7.js",
+    "index.html": "/Mr-Saini-Abhishek/Expense-Tracker-Frontend/index.html",
+    "main.3131c544.css.map": "/Mr-Saini-Abhishek/Expense-Tracker-Frontend/static/css/main.3131c544.css.map",
+    "main.11fb7be7.js.map": "/Mr-Saini-Abhishek/Expense-Tracker-Frontend/static/js/main.11fb7be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3131c544.css",
+    "static/js/main.11fb7be7.js"
+  ]
+}
